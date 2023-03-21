@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "ebar@mail.ru",
+      "password": "$2a$10$NzdnkKsVTw7rpjJbFoqIu.f2bOfVdBYGicUNAOvI3CAJmoT3A9wvi",
+      "login": "ebar",
+      "categories": [
+        {
+          "categoryName": "sakjhkjdjksa",
+          "color": "#B6E6BD",
+          "id": "36ccdc56-15dd-471e-ba9a-713c9991192b",
+          "tasks": []
+        },
+        {
+          "categoryName": "kjsdhf",
+          "color": "#C355F5",
+          "id": "11be676d-d04e-48be-b989-cf07456d44ee",
+          "tasks": [
+            {
+              "id": "93fadf44-d82c-413a-a957-dd68729513b4",
+              "taskTitle": "jhwgduisf",
+              "isComplete": false
+            }
+          ]
+        },
+        {
+          "categoryName": "sdfiu",
+          "color": "#09011A",
+          "id": "e747e5b8-3cfb-47f0-a76d-d6c76d8523cf",
+          "tasks": []
+        },
+        {
+          "categoryName": "jsch",
+          "color": "#FF6464",
+          "id": "a5020e8b-a245-4d0c-8b18-dfbaaa0567a9",
+          "tasks": []
+        },
+        {
+          "categoryName": "aisujfsj",
+          "color": "#64C4ED",
+          "id": "ea73bd82-94ae-4534-a23d-4b74f5c6409c",
+          "tasks": []
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

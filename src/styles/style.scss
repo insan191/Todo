@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap');
+@import url('https://use.typekit.net/rjm6dfe.css');
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style-type: none;
+	transition: all 0.5s;
+	font-style: normal;
+}
+.container{
+	max-width: 746px;
+	margin: 0 auto;
+}
+
+@import 'form';
+@import 'aside';
+@import 'home';
+@import 'tasks'
